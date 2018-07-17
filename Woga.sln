@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Wogasender", "Woga\Wogasender.csproj", "{EA8AE321-6FF5-4F60-B779-7BCCB1422403}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WogaConsumer", "WogaConsumer\WogaConsumer.csproj", "{7AAA4496-C63B-4BAB-8253-8B6135F14EE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA8AE321-6FF5-4F60-B779-7BCCB1422403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA8AE321-6FF5-4F60-B779-7BCCB1422403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA8AE321-6FF5-4F60-B779-7BCCB1422403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA8AE321-6FF5-4F60-B779-7BCCB1422403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AAA4496-C63B-4BAB-8253-8B6135F14EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AAA4496-C63B-4BAB-8253-8B6135F14EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AAA4496-C63B-4BAB-8253-8B6135F14EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AAA4496-C63B-4BAB-8253-8B6135F14EE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC83A202-50D6-4CD1-B189-BD2B3530C59D}
+	EndGlobalSection
+EndGlobal

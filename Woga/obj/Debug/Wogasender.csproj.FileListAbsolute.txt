@@ -1,0 +1,24 @@
+C:\Users\anesu.mutumwa\Documents\Visual Studio 2017\projects\Woga\Woga\bin\Debug\Woga.exe.config
+C:\Users\anesu.mutumwa\Documents\Visual Studio 2017\projects\Woga\Woga\bin\Debug\Woga.exe
+C:\Users\anesu.mutumwa\Documents\Visual Studio 2017\projects\Woga\Woga\bin\Debug\Woga.pdb
+C:\Users\anesu.mutumwa\Documents\Visual Studio 2017\projects\Woga\Woga\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\anesu.mutumwa\Documents\Visual Studio 2017\projects\Woga\Woga\bin\Debug\RabbitMQ.Client.dll
+C:\Users\anesu.mutumwa\Documents\Visual Studio 2017\projects\Woga\Woga\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\anesu.mutumwa\Documents\Visual Studio 2017\projects\Woga\Woga\bin\Debug\RabbitMQ.Client.xml
+C:\Users\anesu.mutumwa\Documents\Visual Studio 2017\projects\Woga\Woga\obj\Debug\Wogasender.csprojAssemblyReference.cache
+C:\Users\anesu.mutumwa\Documents\Visual Studio 2017\projects\Woga\Woga\obj\Debug\Wogasender.csproj.CoreCompileInputs.cache
+C:\Users\anesu.mutumwa\Documents\Visual Studio 2017\projects\Woga\Woga\obj\Debug\Wogasender.csproj.CopyComplete
+C:\Users\anesu.mutumwa\Documents\Visual Studio 2017\projects\Woga\Woga\obj\Debug\Woga.exe
+C:\Users\anesu.mutumwa\Documents\Visual Studio 2017\projects\Woga\Woga\obj\Debug\Woga.pdb
+C:\Users\anesu.mutumwa\Desktop\anesu-woga\Woga\Woga\bin\Debug\Woga.exe.config
+C:\Users\anesu.mutumwa\Desktop\anesu-woga\Woga\Woga\bin\Debug\Woga.exe
+C:\Users\anesu.mutumwa\Desktop\anesu-woga\Woga\Woga\bin\Debug\Woga.pdb
+C:\Users\anesu.mutumwa\Desktop\anesu-woga\Woga\Woga\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\anesu.mutumwa\Desktop\anesu-woga\Woga\Woga\bin\Debug\RabbitMQ.Client.dll
+C:\Users\anesu.mutumwa\Desktop\anesu-woga\Woga\Woga\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\anesu.mutumwa\Desktop\anesu-woga\Woga\Woga\bin\Debug\RabbitMQ.Client.xml
+C:\Users\anesu.mutumwa\Desktop\anesu-woga\Woga\Woga\obj\Debug\Wogasender.csprojAssemblyReference.cache
+C:\Users\anesu.mutumwa\Desktop\anesu-woga\Woga\Woga\obj\Debug\Wogasender.csproj.CoreCompileInputs.cache
+C:\Users\anesu.mutumwa\Desktop\anesu-woga\Woga\Woga\obj\Debug\Wogasender.csproj.CopyComplete
+C:\Users\anesu.mutumwa\Desktop\anesu-woga\Woga\Woga\obj\Debug\Woga.exe
+C:\Users\anesu.mutumwa\Desktop\anesu-woga\Woga\Woga\obj\Debug\Woga.pdb
