@@ -28,8 +28,10 @@ namespace WogaConsumer
             var consumer = new EventingBasicConsumer(channel);
             consumer.Received += (model, ea) =>
             {
-                var body = ea.Body;
-                Console.WriteLine("Message recieved:" + Encoding.UTF8.GetString(body));
+                var body = Encoding.UTF8.GetString(ea.Body);
+                //Console.WriteLine("Message recieved:" + Encoding.UTF8.GetString(body));
+                string[] name = body.Split(',');
+                Console.WriteLine("Hello {0} I am your father!", name[1].Trim());
                 channel.BasicAck(ea.DeliveryTag, false);
             };
             channel.BasicConsume(queue: "WogaQueue", autoAck: false, consumer: consumer);
@@ -37,3 +39,5 @@ namespace WogaConsumer
         }
         }
 }
+
+

@@ -10,3 +10,15 @@ C:\Users\anesu.mutumwa\Documents\Visual Studio 2017\projects\Woga\WogaConsumer\o
 C:\Users\anesu.mutumwa\Documents\Visual Studio 2017\projects\Woga\WogaConsumer\obj\Debug\WogaConsumer.csproj.CopyComplete
 C:\Users\anesu.mutumwa\Documents\Visual Studio 2017\projects\Woga\WogaConsumer\obj\Debug\WogaConsumer.exe
 C:\Users\anesu.mutumwa\Documents\Visual Studio 2017\projects\Woga\WogaConsumer\obj\Debug\WogaConsumer.pdb
+C:\Users\anesu.mutumwa\Desktop\anesu-woga\Woga\WogaConsumer\bin\Debug\WogaConsumer.exe.config
+C:\Users\anesu.mutumwa\Desktop\anesu-woga\Woga\WogaConsumer\bin\Debug\WogaConsumer.exe
+C:\Users\anesu.mutumwa\Desktop\anesu-woga\Woga\WogaConsumer\bin\Debug\WogaConsumer.pdb
+C:\Users\anesu.mutumwa\Desktop\anesu-woga\Woga\WogaConsumer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\anesu.mutumwa\Desktop\anesu-woga\Woga\WogaConsumer\bin\Debug\RabbitMQ.Client.dll
+C:\Users\anesu.mutumwa\Desktop\anesu-woga\Woga\WogaConsumer\bin\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\anesu.mutumwa\Desktop\anesu-woga\Woga\WogaConsumer\bin\Debug\RabbitMQ.Client.xml
+C:\Users\anesu.mutumwa\Desktop\anesu-woga\Woga\WogaConsumer\obj\Debug\WogaConsumer.csprojAssemblyReference.cache
+C:\Users\anesu.mutumwa\Desktop\anesu-woga\Woga\WogaConsumer\obj\Debug\WogaConsumer.csproj.CoreCompileInputs.cache
+C:\Users\anesu.mutumwa\Desktop\anesu-woga\Woga\WogaConsumer\obj\Debug\WogaConsumer.csproj.CopyComplete
+C:\Users\anesu.mutumwa\Desktop\anesu-woga\Woga\WogaConsumer\obj\Debug\WogaConsumer.exe
+C:\Users\anesu.mutumwa\Desktop\anesu-woga\Woga\WogaConsumer\obj\Debug\WogaConsumer.pdb

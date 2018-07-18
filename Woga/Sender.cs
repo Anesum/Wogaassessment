@@ -11,11 +11,9 @@ namespace Woga
     {
         static void Main(string[] args)
         {
-            Console.Write("Enter text:");
+            Console.Write("Enter your name:");
             string name = Console.ReadLine();
-            Send(name);
-            
-           
+            Send(string.Format("Hello my name is, {0}", name));
         }
 
         public static void Send(string smsbody)
